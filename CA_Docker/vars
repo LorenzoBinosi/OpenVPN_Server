@@ -1,0 +1,8 @@
+set_var EASYRSA_REQ_COUNTRY    "Italy"
+set_var EASYRSA_REQ_PROVINCE   "Milan"
+set_var EASYRSA_REQ_CITY       "Milan"
+set_var EASYRSA_REQ_ORG        "Personal CA"
+set_var EASYRSA_REQ_EMAIL      "lorenzo.binosi@gmail.com"
+set_var EASYRSA_REQ_OU         "Law CA"
+set_var EASYRSA_ALGO           "ec"
+set_var EASYRSA_DIGEST         "sha256

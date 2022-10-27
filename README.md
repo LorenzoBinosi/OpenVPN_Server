@@ -1,2 +1,3 @@
-# OpenVPN_Server
-Easy setup for a OpenVPN server
+# OpenVPN Server
+
+`./install_prerequisites.sh`
